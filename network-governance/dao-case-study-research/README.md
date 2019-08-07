@@ -53,7 +53,7 @@ Most of the groups are happy with the initial implementations and the functional
 * Aragon and GovBlocks have automatic smartcontract execution, which was an advantage to some of the DAOs interviewed.
 * Reputation in DAOstack and the implementation of 1-person-1-vote was more appealing to other DAOs.
 * GovBocks has a built-in forum for discussion pre-proposal.
-* All systems we interviewed are built on Ethereum.
+* All systems we interviewed are built on Ethereum with one exception built on RSK.
 
 #### Suggestions
 
